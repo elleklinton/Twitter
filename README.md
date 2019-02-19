@@ -4,4 +4,12 @@
 ## Installation
 ###### (Command-Line)
 ----------
-`git clone https://github.com/elleklinton/API-Wrapper.git`
+Python3:
+`pip3 install git+https://github.com/elleklinton/Twitter#egg=TwEllek --process-dependency-links`
+
+Python2:
+`pip install git+https://github.com/elleklinton/Twitter#egg=TwEllek --process-dependency-links`
+
+Access by:
+`import TwEllek`
+
